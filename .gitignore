@@ -1,0 +1,11 @@
+.DS_Store
+.idea/**
+.vscode/**
+.python-version
+.ipynb_checkpoints
+.pynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__/
+*.py[cod]
+*$py.class
+Dataset/**
