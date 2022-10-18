@@ -1,3 +1,5 @@
+import numpy as np
+
 class SGM():
     
     def __init__(self, p1, p2, cost_map=None):
