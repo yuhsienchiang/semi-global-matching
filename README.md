@@ -13,6 +13,9 @@ To run the code of this project, the files need to be placed in the hierachy sho
     ├── ...
     └── ...
 
+The main code is in final_project.ipynb
+
+
 # Dependencies
 The libraris and python used in this project are listed as below:
 python==3.7.13
