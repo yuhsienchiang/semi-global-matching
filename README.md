@@ -1,11 +1,12 @@
-# Project Information
+# Semi-Global-Matching
+## Project Information
 This project implement the Semi-Global matching algorithm and normalised cross-correlation algorithm.
 
 Student:
 - Name: Yu Hsien, Chiang (1283355)
 - Name: Thomas, Chen (1290641)
 
-# File
+## Files
 To run the code of this project, the files need to be placed in the hierachy shown below:
 ```
 ├── final_project.ipynb
@@ -15,12 +16,8 @@ To run the code of this project, the files need to be placed in the hierachy sho
     ├── ...
     └── ...
 ```
-# Dependencies
-The libraris and python used in this project are listed as below:
+## Dependencies
+The project uses `python==3.12.2`, and the dependencies can be installed by running:
 ```
-python==3.7.13
-matplotlib==3.5.3
-numpy==1.19.5
-opencv-python==4.6.0.66
-tqdm==4.64.1
+pip install -r requirements.txt
 ```
