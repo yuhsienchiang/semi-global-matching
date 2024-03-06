@@ -21,3 +21,4 @@ The project uses `python==3.12.2`, and the dependencies can be installed by runn
 ```
 pip install -r requirements.txt
 ```
+The main code is in final_project.ipynb
